@@ -14,14 +14,6 @@ The goal is to identify key production drivers, evaluate operational performance
 - Excel / Google Sheets
 - Statistical analysis and regression modeling
 
-## Project Structure
-
-- `data/` — source and processed datasets
-- `notebooks/` — Python analysis and modeling
-- `powerbi/` — Power BI dashboard
-- `reports/` — final analytical reports
-- `results/` — statistical, regression, and scenario analysis outputs
-
 ## Key Results
 
 - Total energy production: **73,835.20 MWh**

@@ -53,4 +53,4 @@ The analysis covers 90 daily observations from January to March 2025. Revenue is
 
 ## Author
 
-Data Analytics Portfolio Project
+Data Analytics Project
